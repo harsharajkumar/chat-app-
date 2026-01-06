@@ -1,5 +1,5 @@
 # Real Time Chat App 
-Some Features:
+### Features:
 
 -   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 -   🎃 Authentication && Authorization with JWT
